@@ -6,9 +6,6 @@ In this project there is a usage of limited shakespeare text and trained RNN mod
 
 ![image](https://user-images.githubusercontent.com/42711425/213918653-e69b2da1-e415-4d26-9104-058fb09593fa.png)
 
-![image](https://user-images.githubusercontent.com/42711425/213918675-b8daa11a-5a8a-48d3-a5f0-1633157e8d6c.png)
-
-![image](https://user-images.githubusercontent.com/42711425/213918689-80c65ffb-22f5-4639-8883-b826fa9ff9ce.png)
 
 
 
